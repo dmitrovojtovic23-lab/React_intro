@@ -24,23 +24,6 @@ function App() {
         Рівне — обласний центр Рівненської області, розташований на заході України.
         Місто має багату історію, культурні пам’ятки та сучасну інфраструктуру.
       </p>
-
-      <h2>Пам’ятки міста</h2>
-
-      <div className="images">
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Rivne_city_center.jpg"
-          alt="Центр Рівного"
-        />
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Rivne_Zoo.jpg"
-          alt="Рівненський зоопарк"
-        />
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Taras_Shevchenko_Park_Rivne.jpg"
-          alt="Парк Шевченка"
-        />
-      </div>
       <div>
       <h2>Улюблена книга</h2>
 
@@ -63,12 +46,6 @@ function App() {
       <p><b>Режисер:</b> Крістофер Нолан</p>
       <p><b>Рік випуску:</b> 2014</p>
       <p><b>Кіностудія:</b> Paramount Pictures</p>
-
-      <img
-        src="https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
-        alt="Постер фільму"
-        width="200"
-      />
     </div>
     <div>
       <h2>Персональна сторінка</h2>
@@ -83,11 +60,6 @@ function App() {
         <li>JavaScript</li>
         <li>React</li>
       </ul>
-
-      <img
-        src="https://via.placeholder.com/150"
-        alt="Фото"
-      />
     </div>
       </div>
       <h1>Vite + React</h1>
