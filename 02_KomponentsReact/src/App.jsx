@@ -1,4 +1,3 @@
-import React from "react";
 function NewsCard({ image, title, text, link }) {
   return (
     <div style={{
